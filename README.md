@@ -87,16 +87,6 @@ sudo python3 evillcode.py
 5. Iniciar monitoreo o ataque MITM
 
 
-📁 Estructura del proyecto
-
-
-evillcode/
-├── evillcode.py
-├── requirements.txt
-├── README.md
-└── .gitignore
-
-
 📌 Dependencias de Python
 
 * colorama

@@ -58,13 +58,13 @@ pip3 install -r requirements.txt --break-system-packages
 
 🧠 Opción recomendada (entorno virtual)
 
-sudo apt install python3-venv -y
+* sudo apt install python3-venv -y
 
-python3 -m venv venv
+* python3 -m venv venvpython3 -m venv venvpython3 -m venv venv
 
-source venv/bin/activate
+* source venv/bin/activate
 
-pip install -r requirements.txt
+* pip install -r requirements.txt
 
 ⚠️ Nota
 

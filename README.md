@@ -47,26 +47,26 @@ Sigue estos pasos para instalar y ejecutar el proyecto correctamente:
 
 🔹 1. Clonar el repositorio
 
-git clone https://github.com/AlexanderOrtizScript/evillcode.git
+* git clone https://github.com/AlexanderOrtizScript/evillcode.git
 
-cd evillcode
+* cd evillcode
 
 
 🔹 2. Instalar dependencias de Python
 
-pip3 install -r requirements.txt
+* pip3 install -r requirements.txt
 
 
 🔹 3. Instalar herramientas del sistema
 
-sudo apt update
+* sudo apt update
 
-sudo apt install -y nmap python3-pip
+* sudo apt install -y nmap python3-pip
 
 
 🔹 4. Ejecutar el programa
 
-sudo python3 evillcode.py
+* sudo python3 evillcode.py
 
 🚀 Uso
 

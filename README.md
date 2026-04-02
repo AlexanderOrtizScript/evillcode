@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="715" height="287" src="https://github.com/user-attachments/assets/afcccb15-2bb8-40b6-bf9f-8b86f8c87a76" />
+  <img width="1351" height="293" src="https://github.com/user-attachments/assets/1a9f8b7b-b8ae-44e9-8085-61b6e9c218fd" />
 </p>
 
 🔥 Evillcode - Modular MITM Framework

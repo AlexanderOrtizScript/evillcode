@@ -71,8 +71,8 @@ Clona el repositorio:
 Ejecuta el script con permisos de administrador:
 
 bash
-sudo python3 evillcode.py
 
+sudo python3 evillcode.py
 
 🧪 Flujo de uso
 

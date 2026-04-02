@@ -62,9 +62,9 @@ Clona el repositorio:
 
 * bash
 
-sudo apt update
-sudo apt install nmap python3-pip -y
+* sudo apt update
 
+* sudo apt install nmap python3-pip -y
 
 🚀 Uso
 

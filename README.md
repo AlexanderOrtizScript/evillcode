@@ -27,12 +27,11 @@ Diseñado con un enfoque práctico para aprendizaje en ciberseguridad y redes.
 🧩 Arquitectura modular basada en hilos (threads)
 
 
-🧱 Requisitos
+⚠️ Nota
 
-Sistema
-
-* Linux (recomendado: Kali Linux, Ubuntu)
-* Permisos de superusuario (root)
+* Se recomienda ejecutar en sistemas Linux (Kali Linux, Ubuntu).
+* Es necesario tener permisos de superusuario (root).
+* Asegúrate de tener conexión a internet para instalar dependencias.
 
 Herramientas necesarias
 

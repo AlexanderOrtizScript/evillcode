@@ -83,6 +83,15 @@ sudo python3 evillcode.py
 4. Seleccionar objetivo(s)
 5. Iniciar monitoreo o ataque MITM
 
+## 📁 Estructura del proyecto
+
+```text
+evillcode/
+├── evillcode.py
+├── requirements.txt
+├── README.md
+└── .gitignore
+```
 
 📌 Dependencias de Python
 

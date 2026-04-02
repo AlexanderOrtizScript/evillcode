@@ -69,6 +69,7 @@ Sigue estos pasos para instalar y ejecutar el proyecto correctamente:
 ⚠️ Nota
 
 En algunas distribuciones Linux (como Kali Linux), la instalación global con pip está restringida.
+
 Por eso se usa --break-system-packages o un entorno virtual.
 
 🔹 3. Instalar herramientas del sistema

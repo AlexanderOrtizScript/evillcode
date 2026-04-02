@@ -1,4 +1,6 @@
-<img width="715" height="287" alt="{EC341901-F339-44EB-86AD-F150D0D83A43}" src="https://github.com/user-attachments/assets/afcccb15-2bb8-40b6-bf9f-8b86f8c87a76" />
+<p align="center">
+  <img width="715" height="287" src="https://github.com/user-attachments/assets/afcccb15-2bb8-40b6-bf9f-8b86f8c87a76" />
+</p>
 
 🔥 Evillcode - Modular MITM Framework
 

@@ -46,21 +46,22 @@ Herramientas necesarias
 
 Clona el repositorio:
 
-bash
+* bash
 
-git clone https://github.com/AlexanderOrtizScript/evillcode.git
+* git clone https://github.com/AlexanderOrtizScript/evillcode.git
 
-cd evillcode
+* cd evillcode
 
-Instala dependencias:
+* Instala dependencias:
 
-bash
+* bash
 
-pip3 install -r requirements.txt
+* pip3 install -r requirements.txt
 
-Instala herramientas del sistema:
+* Instala herramientas del sistema:
 
-bash
+* bash
+
 sudo apt update
 sudo apt install nmap python3-pip -y
 

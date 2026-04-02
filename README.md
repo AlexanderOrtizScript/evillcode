@@ -55,8 +55,8 @@ cd evillcode
 Instala dependencias:
 
 bash
-pip3 install -r requirements.txt
 
+pip3 install -r requirements.txt
 
 Instala herramientas del sistema:
 

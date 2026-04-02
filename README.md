@@ -50,11 +50,26 @@ Sigue estos pasos para instalar y ejecutar el proyecto correctamente:
 
 * cd evillcode
 
-
 🔹 2. Instalar dependencias de Python
 
-* pip3 install -r requirements.txt
+⚡ Opción rápida (Kali / Ubuntu)
 
+pip3 install -r requirements.txt --break-system-packages
+
+🧠 Opción recomendada (entorno virtual)
+
+sudo apt install python3-venv -y
+
+python3 -m venv venv
+
+source venv/bin/activate
+
+pip install -r requirements.txt
+
+⚠️ Nota
+
+En algunas distribuciones Linux (como Kali Linux), la instalación global con pip está restringida.
+Por eso se usa --break-system-packages o un entorno virtual.
 
 🔹 3. Instalar herramientas del sistema
 

@@ -54,7 +54,7 @@ Sigue estos pasos para instalar y ejecutar el proyecto correctamente:
 
 ⚡ Opción rápida (Kali / Ubuntu)
 
-pip3 install -r requirements.txt --break-system-packages
+* sudo pip3 install -r requirements.txt --break-system-packages
 
 🧠 Opción recomendada (entorno virtual)
 

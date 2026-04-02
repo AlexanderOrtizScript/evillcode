@@ -54,11 +54,13 @@ Clona el repositorio:
 
 * Instala dependencias:
 
+
 * bash
 
 * pip3 install -r requirements.txt
 
 * Instala herramientas del sistema:
+
 
 * bash
 

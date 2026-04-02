@@ -47,7 +47,7 @@ Herramientas necesarias
 Clona el repositorio:
 
 bash
-git clone https://github.com/TU_USUARIO/evillcode.git
+git clone https://github.com/AlexanderOrtizScript/evillcode.git
 cd evillcode
 
 

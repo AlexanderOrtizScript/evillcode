@@ -123,14 +123,13 @@ evillcode/
 * scapy
 
 
-⚠️ Aviso Legal
+## ⚠️ Aviso Legal
 
-Este proyecto ha sido desarrollado exclusivamente con fines educativos y de auditoría de seguridad.
+Este software está diseñado exclusivamente para fines educativos y pruebas de seguridad autorizadas.
 
-El uso indebido de esta herramienta en redes sin autorización es ilegal y puede acarrear consecuencias legales.
+El uso de esta herramienta en redes sin consentimiento explícito es ilegal.
 
-El autor no se hace responsable por el uso incorrecto del software.
-
+El autor no se responsabiliza por el uso indebido del software.
 
 👨‍💻 Autor
 

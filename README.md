@@ -106,8 +106,6 @@ sudo python3 evillcode.py
 
 ## 📁 Estructura del proyecto
 
-## 📁 Estructura del proyecto
-
 ```
 evillcode/
 ├── evillcode.py        # Script principal

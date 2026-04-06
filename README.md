@@ -131,24 +131,24 @@ El uso de esta herramienta en redes sin consentimiento explícito es ilegal.
 
 El autor no se responsabiliza por el uso indebido del software.
 
-👨‍💻 Autor
+## 👨‍💻 Autor
 
 Alexander Ortiz
 GitHub: https://github.com/AlexanderOrtizScript
 
 
-⭐ Contribuciones
+## ⭐ Contribuciones
 
 Las contribuciones son bienvenidas.
 Puedes hacer un fork del proyecto y enviar un pull request.
 
 
-📄 Licencia
+## 📄 Licencia
 
 Este proyecto está bajo la licencia MIT (puedes cambiarla si lo deseas).
 
 
-🚀 Estado del proyecto
+## 🚀 Estado del proyecto
 
 🟢 En desarrollo activo
 Versión actual: 1.0.0

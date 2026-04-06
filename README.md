@@ -71,7 +71,7 @@ Sigue estos pasos para instalar y ejecutar el proyecto correctamente:
 
 * pip install -r requirements.txt
 
-⚠️ Nota
+## ⚠️ Nota
 
 En algunas distribuciones Linux (como Kali Linux), la instalación global con pip está restringida.
 

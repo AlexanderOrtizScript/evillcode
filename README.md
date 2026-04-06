@@ -88,7 +88,7 @@ Por eso se usa --break-system-packages o un entorno virtual.
 
 * sudo python3 evillcode.py
 
-🚀 Uso
+## 🚀 Uso
 
 Ejecuta el script con permisos de administrador:
 

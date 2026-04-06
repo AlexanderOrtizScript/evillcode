@@ -32,7 +32,7 @@ Diseñado con un enfoque práctico para aprendizaje en ciberseguridad y redes.
 - 📥 Sniffer: Captura de tráfico HTTP
 - 📊 Monitor: Detección de nuevos dispositivos
 
-⚠️ Nota
+## ⚠️ Nota
 
 * Se recomienda ejecutar en sistemas Linux (Kali Linux, Ubuntu).
 * Es necesario tener permisos de superusuario (root).

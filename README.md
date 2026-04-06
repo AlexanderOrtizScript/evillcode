@@ -116,7 +116,7 @@ evillcode/
 ```
 
 
-📌 Dependencias de Python
+## 📌 Dependencias de Python
 
 * colorama
 * pyfiglet

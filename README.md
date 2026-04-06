@@ -106,12 +106,17 @@ sudo python3 evillcode.py
 
 ## 📁 Estructura del proyecto
 
+## 📁 Estructura del proyecto
+
+```
 evillcode/
-├── evillcode.py
-├── requirements.txt
-├── README.md
-├── LICENSE
-└── .gitignore
+├── evillcode.py        # Script principal
+├── requirements.txt    # Dependencias
+├── README.md           # Documentación
+├── LICENSE             # Licencia MIT
+└── .gitignore          # Archivos ignorados por Git
+```
+
 
 📌 Dependencias de Python
 

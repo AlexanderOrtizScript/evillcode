@@ -98,15 +98,26 @@ sudo python3 evillcode.py
 
 ## 🔄 Flujo del sistema
 
-Seleccionar interfaz  
-⬇️  
-Escaneo de red  
-⬇️  
-Selección de objetivos  
-⬇️  
-MITM + Sniffing  
-⬇️  
-Monitor en tiempo real
+```text
+┌──────────────────────┐
+│ Seleccionar interfaz │
+└─────────┬────────────┘
+          ↓
+┌──────────────────────┐
+│   Escaneo de red     │
+└─────────┬────────────┘
+          ↓
+┌──────────────────────┐
+│ Selección de targets │
+└─────────┬────────────┘
+          ↓
+┌──────────────────────┐
+│   MITM + Sniffing    │
+└─────────┬────────────┘
+          ↓
+┌──────────────────────┐
+│ Monitor en tiempo real│
+└──────────────────────┘
 
 ## 📁 Estructura del proyecto
 

@@ -96,13 +96,17 @@ bash
 
 sudo python3 evillcode.py
 
-🧪 Flujo de uso
+## 🔄 Flujo del sistema
 
-1. Seleccionar interfaz de red
-2. Escanear la red
-3. Visualizar dispositivos detectados
-4. Seleccionar objetivo(s)
-5. Iniciar monitoreo o ataque MITM
+[ Seleccionar interfaz ]
+        ↓
+[ Escaneo de red ]
+        ↓
+[ Selección de objetivos ]
+        ↓
+[ MITM + Sniffing ]
+        ↓
+[ Monitor en tiempo real ]
 
 ## 📁 Estructura del proyecto
 

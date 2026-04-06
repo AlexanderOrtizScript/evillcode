@@ -3,6 +3,9 @@
 </p>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)
+![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
+![OS](https://img.shields.io/badge/OS-Linux-orange.svg)
 
 🔥 Evillcode - Modular MITM Framework
 

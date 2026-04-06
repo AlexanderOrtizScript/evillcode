@@ -45,7 +45,7 @@ Herramientas necesarias
 * python3
 * pip
 
-📦 Instalación
+## 📦 Instalación
 
 Sigue estos pasos para instalar y ejecutar el proyecto correctamente:
 

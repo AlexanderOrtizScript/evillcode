@@ -9,11 +9,11 @@
 
 🔥 Evillcode - Modular MITM Framework
 
-Herramienta avanzada de análisis de red desarrollada en Python, enfocada en la detección, monitoreo y manipulación controlada de tráfico dentro de redes locales con fines educativos y de auditoría.
+Framework modular de ciberseguridad desarrollado en Python para el análisis, monitoreo y simulación de ataques MITM en redes locales.
 
+Permite a estudiantes y profesionales comprender el funcionamiento interno de redes, protocolos y vulnerabilidades en entornos controlados.
 
 📌 Descripción
-
 Evillcode es un framework modular que permite:
 
 * Escaneo de red y descubrimiento de dispositivos activos

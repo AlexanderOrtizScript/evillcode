@@ -24,16 +24,13 @@ Evillcode es un framework modular que permite:
 Diseñado con un enfoque práctico para aprendizaje en ciberseguridad y redes.
 
 
-⚙️ Características
+## 🧩 Módulos del framework
 
-🔍 Escaneo automático de red con nmap
-📡 Detección dinámica de interfaces de red
-🧠 Identificación de dispositivos en la red
-⚡ Suplantación ARP (MITM)
-📥 Captura de paquetes en tiempo real
-📊 Monitor de nuevos dispositivos conectados
-🧩 Arquitectura modular basada en hilos (threads)
-
+- 🔍 Scanner: Descubrimiento de dispositivos en la red
+- 🧠 Resolver: Identificación de hostname y MAC
+- ⚡ MITM Engine: Suplantación ARP
+- 📥 Sniffer: Captura de tráfico HTTP
+- 📊 Monitor: Detección de nuevos dispositivos
 
 ⚠️ Nota
 

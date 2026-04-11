@@ -7,6 +7,11 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
 ![OS](https://img.shields.io/badge/OS-Linux-orange.svg)
 
+![Scapy](https://img.shields.io/badge/Scapy-Network%20Lib-blue)
+![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanner-orange)
+![IPTables](https://img.shields.io/badge/IPTables-Firewall-red)
+![Multithreading](https://img.shields.io/badge/Threading-Enabled-green)
+
 ## 🔥 Evillcode - Modular MITM Framework
 
 Framework modular de ciberseguridad desarrollado en Python para el análisis, monitoreo y simulación de ataques MITM en redes locales.

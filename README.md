@@ -56,7 +56,7 @@ Sigue estos pasos para instalar y ejecutar el proyecto correctamente:
 
 🔹 1. Clonar el repositorio
 
-* git clone https://github.com/AlexanderOrtizScript/Network-Attack-Framework.git
+* git clone https://github.com/AlexanderOrtizScript/evillcode.git
 
 * cd evillcode
 
